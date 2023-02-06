@@ -1,4 +1,4 @@
-# Python HTTP Server
+# Python Server
 
 Docker files for container that runs a HTTP Python server using Python 3.9 Alpine base. Cron scheduler is used to run the necessary jobs in attempt to strive for uninterrupted service. 
 
